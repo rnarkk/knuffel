@@ -147,7 +147,7 @@ struct MyNode {
 }
 ```
 
-In this case property may not exists or may be set to `null`:
+In this case properties may not exist or may be set to `null`:
 ```kdl
 node name=null
 ```
