@@ -75,7 +75,7 @@ struct MyNode {
 }
 ```
 
-In this case attribute may not exists:
+In this case arguments may not exist:
 ```kdl
 node "arg1"  // no `second` argument is okay
 ```
