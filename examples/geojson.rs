@@ -33,7 +33,7 @@ pub struct Position(
 
 pub struct BBox;
 
-puh enum Pole {
+pub enum Pole {
     MinLat,
     MaxLat,
     WestLon,
