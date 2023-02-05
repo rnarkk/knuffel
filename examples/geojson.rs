@@ -1,3 +1,7 @@
+/*!
+<https://www.rfc-editor.org/rfc/rfc7946>
+*/
+
 use knuffel::Decode;
 
 pub enum Geometry {
