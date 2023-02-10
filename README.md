@@ -20,12 +20,12 @@ foo 1 "three" key="val" {                           ╮
  │  │    │                                          │
  │  ╰────┴────────────── arguments                  │
  │                                                  │
- └── node name                                      ├─ node "foo", with
+ ╰── node name                                      ├─ node "foo", with
                                                     │  "bar" and "baz"
     bar                                             │  being children
     (role)baz 1 2                                   │
      ──┬─                                           │
-       └────── type name for node named "baz"       │
+       ╰────── type name for node named "baz"       │
 }                                                   ╯
 ```
 (note, the order of properties doesn't matter as well as the order of
