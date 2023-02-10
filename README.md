@@ -5,7 +5,7 @@ convenient derive macros.
 
 To give you some background on the KDL format. Here is a small example:
 ```kdl
-foo 1 key="val" "three" {
+foo 1 "three" key="val" {
     bar
     (role)baz 1 2
 }
